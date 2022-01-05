@@ -21,23 +21,63 @@ h1{
     color: #023e8a;
     font-size: 55px;
     border-left: 5px solid ;
-    border-image: linear-gradient(#f72585,#b5179e) 9;
+    border-image: linear-gradient(#f72585,#b5179e) 1;
     padding-left: 10px;
-}
+    
+}    
 
 span{
     color: #f72585;
 }
 p{
     margin: 30px 0px 30px 0px;
+    
 }
 .button{
     text-decoration: none;
     color: #f8f9fa;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 20px;
     background-image: linear-gradient(#f72585,#b5179e);
     padding: 10px;
     border-radius: 5px;
     
+}
+/*section-2*/
+#second-section{
+    margin: 5% 5% 5% 12%;
+}
+
+h2{
+    text-align: center;
+    color: #023e8a;
+    font-size: 45px;
+
+}
+h4{
+    color: #023e8a;
+    font-size: 25px; 
+    margin-top: 20px;
+}
+.my-mission{
+    display: flex;
+    margin-top: 5%;
+}
+.mission{
+    border-radius: 25px;
+    padding: 30px;
+    margin-left: 15px;
+    width: 30%;
+}
+.mission img{
+    width: 120px;
+}
+.m-color{
+ background-color: #ffe5d9;
+}
+.v-color{
+ background-color:#e9edc9;
+}
+.g-color{
+background-color: #b7e4c7;
 }
