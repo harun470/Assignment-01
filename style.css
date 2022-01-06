@@ -137,19 +137,22 @@ h3{
 }
 /*footer*/
 .footer{
-    background-color: #001219;
+    background-color: black;
     width: 100%;
     height: auto;
     text-align: center;
-    
+    padding: 20px;
 }
 .footer h3{
-   padding:25px 0px 15px 0px ;
-   font-family: 'The Nautigal', cursive !important;
+   color: white;
+   margin: 10px 0px 10px 0px;
+   font-family: 'Lobster', cursive;
 }
-.footer h5{
-    padding: 0px 0px 30px 0px;
-    color: #f8f9fa;
-    font-weight: 300;
-    font-size: 12px;
+.footer span{
+    font-family: 'Lobster', cursive;
+}
+.footer p{
+    color: whitesmoke;
+    font-size: 11px;
+    margin: 15px 0px 10px 0px;
 }
