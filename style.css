@@ -89,7 +89,7 @@ background-color: #b7e4c7;
     background-image: url(./images/shape-1.png); 
     background-repeat: no-repeat;
     background-size: 15%;
-    background-position: left;
+    background-position: left ;
 }
 .content-width{
     width: 60%;
@@ -106,4 +106,14 @@ h3{
     color: #023e8a;
     font-size: 35px; 
     margin-top: 20px;
+}
+
+/*section-4*/
+#fourth-section{
+    display: flex;
+    margin: 5% 10% 5% 14%; 
+    background-image: url(./images/shape-1.png); 
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: right bottom;
 }
